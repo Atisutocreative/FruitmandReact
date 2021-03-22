@@ -1,0 +1,55 @@
+body {
+    font-family: Poppins;
+    background: url('./assets/pngegg.png') repeat center center fixed;
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    color: #1d7577;
+}
+
+.container {
+    display: flex;
+    justify-content:space-between;
+    border-style: solid;
+    border-radius: 10px;
+    width: 300px;
+    height: auto;
+    padding: 10px;
+    margin: 5px;
+    background-color: rgba(29,117,119,0.9);
+}
+
+.btn-reset {
+    display: flex;
+    justify-content: center;
+    border-style: solid;
+    border-radius: 10px;
+    border-style: solid;
+    width: 100px;
+    height: auto;
+    margin: 5px;
+    background-color: rgba(29,117,119,0.9);
+}
+
+button {
+    margin: 16px;
+    color: #1d7577;
+}
+
+label {
+    display: block}
+
+.container2 {
+    display: block;
+    justify-content: space-around;
+    border-style: solid;
+    border-radius: 10px;
+    width: 300px;
+    height: auto;
+    padding: 10px;
+    margin: 5px;
+    background-color: rgba(212,158,78,0.9);
+}
+
